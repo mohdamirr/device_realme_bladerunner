@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_bladerunner.mk
+    $(LOCAL_DIR)/evolution_bladerunner.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_bladerunner-user \
-    arrow_bladerunner-userdebug \
-    arrow_bladerunner-eng
+    evolution_bladerunner-user \
+    evolution_bladerunner-userdebug \
+    evolution_bladerunner-eng
